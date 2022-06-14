@@ -19,11 +19,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "puzhao_cv.pdf", title: CV}
   - {file: "README.md", title: Projects}
-  - {file: "README.md", title: Fun!!!}
+  - {file: "fun.md", title: Fun!!!}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto: puzhao@stanford.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:puzhao@stanford.edu"}
   - {title: Github, icon: github, url: "https://github.com/priscillazhao9"}
 
 comments:
