@@ -17,10 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
-  - {file: "README.md", title: About me}
+  - {file: "puzhao_cv.pdf", title: CV}
+  - {file: "README.md", title: Projects}
+  - {file: "README.md", title: Fun!!!}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "puzhao@stanford.edu"}
+  - {title: Mail, icon: envelope, url: "mailto: puzhao@stanford.edu"}
   - {title: Github, icon: github, url: "https://github.com/priscillazhao9"}
 
 comments:
