@@ -1,5 +1,5 @@
 ---
-title: "Projects (To be continued...😆)"
+title: "Projects (To be continued...)"
 permalink: "/about/"
 layout: page
 ---
