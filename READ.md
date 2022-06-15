@@ -1,12 +1,8 @@
 ---
 title: "Projects (To be continued...)"
 permalink: "/about/"
-layout: page
+
 ---
-
-##  [Text Summarization for News](./cs224u.pdf)
-
-This project took a deep dive into the field of text summarization and specifically focused on news text. We compared and analyzed the difference between a frequency-based model and a Seq2Seq model quantitatively and qualitatively using ROUGE variants as our evaluation metrics. As expected, while the neural network-based Seq2Seq model performed better than the conventional frequency-based in news summarization, the frequency-based model has its merits. Our project would enrich the context of natural language understanding(NLU) by analyzing the recent news dataset and suggesting future researchers who are interested in studying news summarization try using a combination of an abstractive model and an extractive model.
 
 ## [Model Predictive Curiosity for Self-Supervised Dynamics Models](https://docs.google.com/presentation/d/1GrKsUffJ83J_N0HKwWZoL7CbhvsNI7W8tETBHo0l3gs/edit?usp=sharing)
 
