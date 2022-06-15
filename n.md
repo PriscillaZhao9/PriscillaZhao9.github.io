@@ -1,6 +1,5 @@
 ---
 title:  "News"
-mathjax: true
 layout: layout
 ---
 
