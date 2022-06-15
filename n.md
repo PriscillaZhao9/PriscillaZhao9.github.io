@@ -8,5 +8,5 @@ I got Master's Student Award for Research and Academic Excellencein the Stanford
 ![pic](./award.png)
 
 
-I presented a study: Investigating the Association Between E-book Interactive Features and Learning Outcomes During Bilingual Shared Reading at 2022 AERA.
+I presented a study: [Investigating the Association Between E-book Interactive Features and Learning Outcomes During Bilingual Shared Reading](./aera.pdf) at 2022 AERA.
 
