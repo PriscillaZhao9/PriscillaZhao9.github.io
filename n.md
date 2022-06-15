@@ -1,6 +1,6 @@
 ---
 title:  "News"
-layout: layout
+layout: page
 ---
 
 ##  I got Master's Student Award for Research and Academic Excellencein the Stanford Graduate School of Education, yayyy!
