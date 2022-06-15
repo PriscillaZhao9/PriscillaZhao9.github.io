@@ -6,7 +6,7 @@ layout: page
 
 ##  I got Master's Student Award for Research and Academic Excellencein the Stanford Graduate School of Education
 
-[ I got Master's Student Award for Research and Academic Excellencein the Stanford Graduate School of Education](./award.png)
+![pic](./award.png)
 
 
 ## I presented (https://docs.google.com/presentation/d/1GrKsUffJ83J_N0HKwWZoL7CbhvsNI7W8tETBHo0l3gs/edit?usp=sharing)
