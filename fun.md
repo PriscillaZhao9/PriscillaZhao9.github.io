@@ -15,7 +15,7 @@ Plants
  
 Party Hostess
 ----
-- I used to be a hostess in Macau and hosted several academic conferences, commercial activities and student organization activities. 
+- I used to be a hostess in Macau and I had hosted several academic conferences, commercial activities and student organization activities. 
 ![pic](./hostess1.JPG)
 ![pic](./hostess2.JPG)
 
