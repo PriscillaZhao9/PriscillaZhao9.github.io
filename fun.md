@@ -5,8 +5,7 @@ permalink: /fun!/
 
 Drinking
 ----
-- I love sparkling wine and beers! Popping a bottle of bubbles generally promises a happy and chill time. Though I have a low alcohol tolerance, I like to buy them. Some of my collections...😆
-- ![pic](./alco.png)
+- I love sparkling wine and beers! Popping a bottle of bubbles generally promises a happy and chill time. Though I have a low alcohol tolerance, I like to buy them. 
 
 Plants
 ---- 
@@ -16,7 +15,8 @@ Plants
 Party Hostess
 ----
 - I used to be a hostess in Macau and hosted several academic conferences, commercial activities and student organization activities. 
-- ![pic](./hostess1.png)
+- ![pic](./hostess1.JPG)
+- ![pic](./hostess2.JPG)
 
 
 
