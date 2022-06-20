@@ -1,6 +1,6 @@
 ---
-title: "Fun!!!"
-permalink: /fun!/
+title: "Personal"
+permalink: /Personal/
 ---
 
 Plants
