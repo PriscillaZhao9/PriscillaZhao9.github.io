@@ -3,7 +3,7 @@ title:  "News"
 layout: page
 ---
 
-I got Master's Student Award for Research and Academic Excellencein the Stanford Graduate School of Education, yayyy!
+I received Master's Student Award for Research and Academic Excellencein the Stanford Graduate School of Education.
 
 ![pic](./award.png)
 
