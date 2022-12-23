@@ -3,6 +3,8 @@ title: "Projects"
 permalink: "/about/"
 layout: page
 ---
+##  [Filming Interactions to Nurture Development](https://docs.google.com/presentation/d/1ec5ffEn9SAkWdixPuPmIG24ufROHyfT8gPuwxgrKWBQ/edit?usp=sharing)
+
 ##  [MathyAI: An LLM-based Educational Virtual Assistant Application for Elementary Math Education](./224V.pdf)
 In this research, we investigate the use of Large Language Models (LLMs) to support elementary math education. Specifically, we examined various methods of prompting an LLM, in this case GPT-3, to provide multi-step explanations for various math concepts covered in the elementary math curriculum from Khan Academy. We evaluated the effectiveness of these different prompting methods and used this information to develop MathyAI, a conversational virtual assistant for elementary math. Finally, we conducted initial user studies to assess the potential of MathyAI and identify areas for improvement. While our work relates to the use of LLMs for solving math problems, our primary focus was on the educational potential of these models.
 
